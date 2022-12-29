@@ -15,11 +15,11 @@ play.addEventListener('click', function () {
             if(result == "invalid input")
             {alert("invalid input");continue;}
             else if( result == "tie")
-            { alert("nobody wins"); }
+            { alert(`computer's input =${computerinput}nobody wins`); }
             else if(result == "computer")
-            { alert("winner is computer");computer_points++;}
+            { alert(`computer's input =${computerinput}....winner is computer`);computer_points++;}
             else
-            {alert(`winner is ${result}`);player_points++;}
+            {alert(`computer's input =${computerinput}...winner is ${result}`);player_points++;}
 
             playing = confirm("Do you want to continue playing?");
         }
