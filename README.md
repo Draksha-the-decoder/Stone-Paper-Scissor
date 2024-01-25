@@ -5,7 +5,7 @@
 A simple web-based implementation of the classic game "Stone, Paper, Scissors.", allows users to play against a computer-generated random input. The website is built using Browser Object Model (BOM) features, specifically incorporating alert, prompt, confirm, and HTML manipulation using JavaScript.
 
 ## Screenshot
-![Stone Paper Scissor](https://github.com/Draksha-the-decoder/Stone-Paper-Scissor/assets/96646429/af663109-2b87-42bb-b3bb-962fe6f198ee)
+![Stone Paper Scissor](https://github.com/Draksha-the-decoder/Stone-Paper-Scissor/blob/main/StonePaperScissor.png)
 ## Features
 
 - **User Interaction**: The game involves user interaction through prompts and alerts, allowing the player to make choices during the game.
