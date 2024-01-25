@@ -38,9 +38,9 @@ A simple web-based implementation of the classic game "Stone, Paper, Scissors.",
 
 - `index.html`: The main HTML file containing the structure of the web page.
   
-- `style.css`: CSS file for styling the web page (optional, if included).
+- `stone_paper_scissor.css`: CSS file for styling the web page (optional, if included).
 
-- `script.js`: JavaScript file containing the game logic and BOM interactions.
+- `stone_paper_scissor.js`: JavaScript file containing the game logic and BOM interactions.
 
 ## Acknowledgments
 
