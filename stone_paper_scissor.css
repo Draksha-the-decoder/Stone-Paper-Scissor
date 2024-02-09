@@ -1,7 +1,9 @@
 body
 {
     display: flex;
-    background: "https://garden.spoonflower.com/c/12445927/p/f/m/nOrB6_ErmbiKebmwgjJtiJDkyns2nyoHtlYlcjLywb3hvMYsTTA7oZLmng/Rock%20Paper%20Scissors%20-%20dusty%20blue%20-%20fun%20games%20-%20LAD21.jpg"; 
+    background: "https://us.123rf.com/450wm/tinkivinki/tinkivinki1711/tinkivinki171100011/90106161-hand-game-rock-scissors-paper-rules-gestures-vector.jpg?ver=6"; 
+    background-size: cover;
+    background-color: black;
     justify-content: center;
     align-items: center;
     height: 80vh;
