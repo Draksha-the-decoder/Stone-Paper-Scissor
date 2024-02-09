@@ -1,7 +1,7 @@
 body
 {
     display: flex;
-    background: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/03/RockPaperScissor-2880x1620_Lede.jpg"; 
+    background-image: url("https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/03/RockPaperScissor-2880x1620_Lede.jpg"); 
     background-size: cover;
     background-color: black;
     justify-content: center;
@@ -16,7 +16,7 @@ h2{font-family: 'Courgette', cursive;}
 span,button{font-size:large;}
 div{
     text-align: center;
-    background: linear-gradient(to bottom,grey, rgba(0, 183, 255, 0.3));
+    background: linear-gradient(to bottom,grey, rgba(0, 183, 255, 0.5));
     color: aliceblue;  
     padding: 3vw ;
     border-radius: 2vh;
